@@ -1,0 +1,23 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "test nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suarezdsz/node-api.git"
+  },
+  "author": "Daniel Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suarezdsz/node-api/issues"
+  },
+  "homepage": "https://github.com/suarezdsz/node-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
